@@ -11,7 +11,7 @@
 |------|---|---|
 |H/W|AWS EC2|Linux/Ubuntu 클라우드 서버|
 |H/W|AWS RDS|데이터 베이스 운영 및 관리|
-|S/W|Android application|사용자 전용 안드로이드 어플리케이션|
+|S/W|Java|사용자 전용 안드로이드 어플리케이션|
 |S/W|Node.js|어플리케이션 서버 구현|
 |S/W|html,css,mustache,apache,spring boot|관리자 전용 웹사이트|
 
