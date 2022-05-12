@@ -13,7 +13,7 @@ app.listen(3000, '0.0.0.0', function() {
 var connection = mysql.createConnection({
   host     : 'yerim-db.cbkqykgy0mci.ap-northeast-2.rds.amazonaws.com',
   user     : 'admin',
-  password : 'seereal1!',
+  password : '',
   database : 'info',
   charset : 'utf8mb4',
   port : '3306'
